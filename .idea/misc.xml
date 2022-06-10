@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.10847628657921292" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.146" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/btn_bg.xml" value="0.246" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/ic_background.xml" value="0.146" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/ic_launcher.xml" value="0.146" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.146" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/text_box.xml" value="0.246" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_fragment_replacer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/fragment_create_account.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/fragment_forgot_password.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/fragment_home.xml" value="0.26313405797101447" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/SocialMediaApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.146" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1645" />
+        <entry key="app/src/main/res/drawable/backgroud_chat_input.xml" value="0.1695" />
+        <entry key="app/src/main/res/drawable/backgroud_content_top.xml" value="0.1695" />
+        <entry key="app/src/main/res/drawable/backgroud_recived_message.xml" value="0.1695" />
+        <entry key="app/src/main/res/drawable/backgroud_send_message.xml" value="0.1695" />
+        <entry key="app/src/main/res/drawable/background_content_bottom.xml" value="0.1695" />
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.2105" />
+        <entry key="app/src/main/res/drawable/ic_add.xml" value="0.1645" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.1645" />
+        <entry key="app/src/main/res/drawable/ic_icon_like.xml" value="0.206" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1645" />
+        <entry key="app/src/main/res/drawable/ic_magnifier.xml" value="0.1645" />
+        <entry key="app/src/main/res/drawable/ic_notification.xml" value="0.1645" />
+        <entry key="app/src/main/res/drawable/ic_user.xml" value="0.1645" />
+        <entry key="app/src/main/res/drawable/input_text.xml" value="0.206" />
+        <entry key="app/src/main/res/drawable/placehoder.xml" value="0.142" />
+        <entry key="app/src/main/res/drawable/round_rect_shape.xml" value="0.1695" />
+        <entry key="app/src/main/res/drawable/shape.xml" value="0.2105" />
+        <entry key="app/src/main/res/drawable/shape_login.xml" value="0.206" />
+        <entry key="app/src/main/res/drawable/shape_login_with.xml" value="0.206" />
+        <entry key="app/src/main/res/drawable/shape_with_shadow.xml" value="0.1915" />
+        <entry key="app/src/main/res/drawable/shapebuttonfriend.xml" value="0.1915" />
+        <entry key="app/src/main/res/drawable/shapecrile.xml" value="0.252" />
+        <entry key="app/src/main/res/drawable/shapefriendrv.xml" value="0.1915" />
+        <entry key="app/src/main/res/drawable/shapeicon.xml" value="0.206" />
+        <entry key="app/src/main/res/drawable/toolbar_bg.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.20408515377321107" />
+        <entry key="app/src/main/res/layout/activity_comment.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_fragment_replacer.xml" value="0.15806159420289856" />
+        <entry key="app/src/main/res/layout/activity_info.xml" value="0.15806159420289856" />
+        <entry key="app/src/main/res/layout/activity_infomation.xml" value="0.23697916666666666" />
+        <entry key="app/src/main/res/layout/activity_infor.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_user.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/comment_rv.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/dasboard_rv.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/demo_post.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_add.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_notification.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/friend_rv.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/highlightstory_rv.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/invitation_rv.xml" value="0.15806159420289856" />
+        <entry key="app/src/main/res/layout/item_container_recivied_message.xml" value="0.15806159420289856" />
+        <entry key="app/src/main/res/layout/item_container_send_message.xml" value="0.15806159420289856" />
+        <entry key="app/src/main/res/layout/item_container_user.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/notification.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/notification_rv.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/story_rv_des.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/user_rv.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/user_sample.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/menu/menu_item.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/menu/menu_item_notification.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.129" />
+        <entry key="app/src/main/res/xml/tabs.xml" value="0.15520833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
