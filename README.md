@@ -1,0 +1,3 @@
+# SocialMediaApp-2
+Ứng dụng mạng xã hội đơn giản
+Kết bạn, nhắn tin, Up status,story,Nhắn tin....
