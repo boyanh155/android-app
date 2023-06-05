@@ -82,7 +82,7 @@
          android:layout_height="wrap_content"
          android:layout_marginStart="4dp"
          android:layout_marginBottom="4dp"
-         android:fontFamily="@font/tienne"
+
          android:text="M_Amin"
          android:textColor="@color/white"
          android:textSize="13sp"

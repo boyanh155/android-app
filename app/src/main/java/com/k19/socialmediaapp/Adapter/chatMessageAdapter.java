@@ -60,37 +60,13 @@ public class chatMessageAdapter extends RecyclerView.Adapter<RecyclerView.ViewHo
 
     @Override
     public void onBindViewHolder(@NonNull RecyclerView.ViewHolder holder, int position) {
-        if (getItemViewType( position )==SMG_TYPE_RIGHT){
-            ((SentMessageviewHolder)holder).setData( chatMessage.get( position ) );
-        }else {
-            ((RecevideMessageviewHodler)holder).setData( chatMessage.get( position ) );
+        if (getItemViewType(position) == SMG_TYPE_RIGHT) {
+            ((SentMessageviewHolder) holder).setData(chatMessage.get(position));
+        } else {
+            ((RecevideMessageviewHodler) holder).setData(chatMessage.get(position));
         }
 
     }
-
-//    @Override
-//    public void onBindViewHolder(@NonNull viewHolder holder, int position) {
-//        chatMessage chat = chatMessage.get( position );
-//        holder.show_message.setText( chat.getMess() );
-//        FirebaseDatabase.getInstance().getReference()
-//                        .child( "User" )
-//                                .child( chat.getReceiverId() ).addListenerForSingleValueEvent( new ValueEventListener() {
-//                    @Override
-//                    public void onDataChange(@NonNull DataSnapshot snapshot) {
-//                        User user = snapshot.getValue(User.class);
-//                        Picasso.get()
-//                                .load( user.getProfileImage() )
-//                                .placeholder( R.drawable.placehoder )
-//                                .into( holder.image_profile );
-//                    }
-//                    @Override
-//                    public void onCancelled(@NonNull DatabaseError error) {
-//
-//                    }
-//                } );
-//
-//
-//    }
 
 
     @Override

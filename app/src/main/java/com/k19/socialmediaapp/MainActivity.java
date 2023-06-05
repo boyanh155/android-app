@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onItemSelected(int i) {
                 FragmentTransaction  transaction = getSupportFragmentManager().beginTransaction();
+//                NAV handler
                 switch (i){
                     case 0:
 
@@ -73,6 +74,10 @@ public class MainActivity extends AppCompatActivity {
                     case 5:
                         Intent intent = new Intent(MainActivity.this,UserActivity.class);
                         startActivity( intent );
+                        break;
+                    case 6:
+                        Intent intent1 = new Intent(MainActivity.this,UserActivity.class);
+                        startActivity( intent1 );
                         break;
                 }
                 transaction.commit();

@@ -97,20 +97,6 @@ RecyclerView recyclerView;
                     .push()
                     .setValue( ChatMessage );
             binding.inputMessage.setText( "" );
-//            Bitmap bitmap= BitmapFactory.decodeResource(getResources(),R.mipmap.ic_launcher  );
-//            Notification notification= new Notification.Builder(chatActivity.this)
-//                    .setContentTitle("Tittle push notification"  )
-//                    .setContentText( "Text push notification" )
-//                    .setSmallIcon( R.drawable.apple )
-//                    .setLargeIcon( bitmap )
-//                    .build();
-//            NotificationManager notificationManager =(NotificationManager) getSystemService( Context.NOTIFICATION_SERVICE );
-//            if (notificationManager!=null){
-//                notificationManager.notify(NOTIFICATION_ID,notification);
-//            }
-//            FcmNotificationsSender notificationsSender= new FcmNotificationsSender( "/topics/all","notification" ,
-//                    "SMS",getApplicationContext(),chatActivity.this );
-//            notificationsSender.SendNotifications();
 
         }
 
